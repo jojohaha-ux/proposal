@@ -2,8 +2,9 @@
 
 body{
 				
-	     background-image: url('nice-christmas-background-white-background-with-copy-space.jpg');
-	
+	                        background-image: url('nice-christmas-background-white-background-with-copy-space.jpg');
+	                        background-size: cover;
+	                        background-position: center center;
 				font-family: Poppins;
 }
 
